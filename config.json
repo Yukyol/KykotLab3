@@ -1,0 +1,8 @@
+{
+    "input_file": "text.txt",
+    "language_code": "uk",
+    "output": "screen",
+    "max_characters": 1000,
+    "max_words": 200,
+    "max_sentences": 10
+}
